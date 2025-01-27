@@ -1,0 +1,12 @@
+@startwbs dinnerを作る
+title コンソメスープを作る
+*[#Pink] コンソメスープを作る
+**[#SkyBlue] 下ごしらえ
+***[#yellow] 人参を切る\n作業時間5分 
+***[#yellow] セロリを切る\n作業時間5分
+***[#yellow] 玉ねぎを切る\n作業時間5分
+***[#yellow] 鶏肉を切る\n作業時間5分
+**[#SkyBlue] コンソメスープを作る
+***[#Yellow] 材料を入れて煮込む\n作業時間20分
+***[#yellow] 塩こしょうの調整\n作業時間5分
+@endwbs
