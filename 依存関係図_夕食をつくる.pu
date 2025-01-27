@@ -2,33 +2,27 @@
 start
 fork
   :銀行でお金を下す
-  　担当 畠山 作業時間 30分;
-fork again
-  :モジュール設計
-  　担当 盛田 作業時間 20分;
+  担当 向口 作業時間 20分;
 end fork
 fork
-  :player.py実装
-  　担当 向口 作業時間 30分;
-  :test_player.py
-  　担当 向口 作業時間 30分;
-fork again
-  :computer.py実装
-  　担当 畠山 作業時間 30分;
-  :test_computer.py
-  　担当 畠山 作業時間 30分;
-fork again
-  :janken_judge.py実装
-  　担当 藤原 作業時間 30分;
-  :test_janken_judge.py
-  　担当 藤原 作業時間 30分;
-fork again
-  :janken.py実装
-  　担当 盛田 作業時間 60分;
+  :カレー、ニンジン、ジャガイモ、玉ねぎ、\nカレールー、鶏肉、キャベツをスーパーで買う\n担当 向口 作業時間 20分;
 end fork
 fork
-  :test_janken.py
-  　担当 盛田 作業時間 60分;
+  :カレーを作る
+  担当 高木 作業時間 65分;
+fork again
+  :コールスローを作る
+  担当 細田 作業時間 30分;
+fork again
+  :コンソメスープを作る
+  担当 向口 作業時間 30分;
+end fork
+fork
+  :腹筋をする
+  担当 向口 作業時間 10分;
+fork again
+  :お皿を準備する
+  担当 高木 作業時間 10分;
 end fork
 stop
 @enduml
